@@ -1,5 +1,5 @@
 # 💫 About Me:
-Akenuwa Omonuwa<br>| 18 y/o self-taught dev & coding tutor <br>| Python, JS, web & AI enthusiast <br>| Teaching tech, building cool stuff, learning in public 🚀
+Akenuwa Omonuwa<br>| Self-taught dev & coding tutor <br>| Python, JS, web & AI enthusiast <br>| Teaching tech, building cool stuff, learning in public 🚀
 
 
 ## 🌐 Socials:
