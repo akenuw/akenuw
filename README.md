@@ -24,7 +24,3 @@ Akenuwa Omonuwa<br>| 18 y/o self-taught dev & coding tutor <br>| Python, JS, web
 ---
 [![](https://visitcount.itsvg.in/api?id=akenuw&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># 💫 About Me:
-Akenuwa Omonuwa<br>| 18 y/o self-taught dev & coding tutor <br>| Python, JS, web & AI enthusiast <br>| Teaching tech, building cool stuff, learning in public 🚀
-
-
